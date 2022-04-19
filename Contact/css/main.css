@@ -1,0 +1,20 @@
+body{background-color: #1486b9}
+h1{color:white;margin:30px 0 50px 0 ;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+.myForm {max-width:450px; margin:10px auto;}
+.myForm input,textarea{margin-bottom:15px; }
+.myForm input{padding-left:30px;}
+input[type="submit"]{background-color:#f10b21; color:#fff;}
+textarea{ height: 200px !important;}
+.myForm i {
+    height: 0;
+    float: left;
+    position: relative;
+    color:#f10b21;
+    top:-41px;
+    left:5px;
+}
